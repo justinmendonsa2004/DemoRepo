@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Hello Students 
 
 Welcome back to git vcs
