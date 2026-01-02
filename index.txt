@@ -1,9 +1,4 @@
 <<<<<<< HEAD
 Hello Students 
 
-Welcome back!
-=======
-Hello students
-
-welcome back!g
->>>>>>> develop
+Welcome back to git vcs
