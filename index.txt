@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello Students 
 
 Welcome back!
+=======
+Hello students
+
+welcome back!g
+>>>>>>> develop
