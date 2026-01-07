@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Hello students
 
 undoing changes by using restore.
+=======
+<<<<<<< HEAD
+Hello Students 
+
+Welcome back to git vcs
+>>>>>>> parent of b8c1ecb (update2)
