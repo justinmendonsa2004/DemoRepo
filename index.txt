@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello students
 
 undoing changes by using restore.
@@ -15,3 +16,8 @@ Hello Students
 
 Welcome back to git vcs
 >>>>>>> parent of a664157 (update 4)
+=======
+Hello students
+
+undoing changes by using restore.
+>>>>>>> parent of dd1e516 (Revert "update2")
