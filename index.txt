@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello students
 
 undoing changes by using restore.
@@ -21,3 +22,6 @@ Hello students
 
 undoing changes by using restore.
 >>>>>>> parent of dd1e516 (Revert "update2")
+=======
+. 
+>>>>>>> parent of 8dcdc25 (update 1)
