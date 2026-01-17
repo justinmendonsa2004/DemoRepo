@@ -1,5 +1,15 @@
 Hello Students !
 
+<<<<<<< Updated upstream
 Welcome Back to Git VCS
 
 Testing Stash
+=======
+welcome back to the class
+
+<<<<<<< Updated upstream
+Testing Stash
+>>>>>>> Stashed changes
+=======
+Testing Stash
+>>>>>>> Stashed changes
